@@ -1,7 +1,3 @@
-## JENKINS ARCHITECTURE 
-   
-![Jenkins Architecture](https://github.com/rudrojuu/jenkins-cicd-springboot/blob/main/jenkins.png?raw=true)
-
 # Jenkins CI/CD Demo 🚀
 This repository contains selected projects from the **Jenkins Zero to Hero** series that I implemented while learning DevOps. It demonstrates how to build, analyze, and deploy a Spring Boot application using a complete CI/CD pipeline.
 

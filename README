@@ -1,3 +1,7 @@
+## JENKINS ARCHITECTURE 
+   Here is the architecture diagram of my jenkins setup
+![Jenkins Architecture](jenkins.png)
+
 # Jenkins CI/CD Demo 🚀
 This repository contains selected projects from the **Jenkins Zero to Hero** series that I implemented while learning DevOps. It demonstrates how to build, analyze, and deploy a Spring Boot application using a complete CI/CD pipeline.
 

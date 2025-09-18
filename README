@@ -1,0 +1,32 @@
+# Jenkins CI/CD Demo 🚀
+This repository contains selected projects from the **Jenkins Zero to Hero** series that I implemented while learning DevOps. It demonstrates how to build, analyze, and deploy a Spring Boot application using a complete CI/CD pipeline.
+
+## 🔧 Workflow
+- Build Spring Boot application with **Java + Maven**  
+- Perform static code analysis with **SonarQube**  
+- Automate pipeline with **Jenkins**  
+- Containerize and deploy with **Docker & Kubernetes**  
+- Use **ArgoCD** for GitOps-based deployment  
+
+## 📂 Repository Structure
+- `java-maven-sonar-argocd-helm-k8s/` → CI/CD pipeline scripts  
+- `spring-boot-app/` → Spring Boot source code  
+- `spring-boot-app-manifests/` → Kubernetes manifests  
+
+## 🏗️ Tools & Technologies
+:
+.Jenkins
+· Maven
+· SonarQube
+· Docker
+· Kubernetes
+· ArgoCD  
+
+## 🌟 Learning Outcome
+- Set up Jenkins pipelines from scratch  
+- Integrated SonarQube for quality checks  
+- Deployed Spring Boot app into Kubernetes  
+- Practiced GitOps with ArgoCD  
+
+## 🤝 Credits
+Inspired by **Abhishek Veramalla’s Jenkins Zero to Hero**, customized and implemented by me for hands-on learning.
